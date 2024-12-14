@@ -24,7 +24,7 @@ Email - www.sahamonalisa22@gmail.com
 </p>
 
 # Certificate 
-<a href="https://github.com/M28102010/Certifications" 
+<a href="https://github.com/DataByMonalisa/Certifications" 
    style="text-decoration: none; font-size: 20000 px; color: black;" 
    onmouseover="this.style.color='blue';this.style.textDecoration='underline';" 
    onmouseout="this.style.color='black';this.style.textDecoration='none';">
@@ -32,7 +32,7 @@ Email - www.sahamonalisa22@gmail.com
 </a>
 
 # Study Projects
-<a href="https://github.com/M28102010/Study_Projects" 
+<a href="https://github.com/DataByMonalisa/Study_Projects" 
    style="text-decoration: none; font-size: 20000 px; color: black;" 
    onmouseover="this.style.color='blue';this.style.textDecoration='underline';" 
    onmouseout="this.style.color='black';this.style.textDecoration='none';">
