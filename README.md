@@ -26,7 +26,6 @@ Email - www.sahamonalisa22@gmail.com
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DataByMonalisa&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DataByMonalisa&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DataByMonalisa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DataByMonalisa&theme=radical&no-frame=false&no-bg=false&margin-w=4)
@@ -36,9 +35,6 @@ Email - www.sahamonalisa22@gmail.com
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=DataByMonalisa&limit=5&theme=city_lights&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=DataByMonalisa&icon=0&color=2)](https://visitcount.itsvg.in)
 
 
 # Certificate 
