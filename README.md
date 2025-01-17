@@ -23,15 +23,6 @@ Email - www.sahamonalisa22@gmail.com
   <img src="https://img.icons8.com/color/452/visual-studio-code-2019.png" width="40" height="40" alt="VS Code Icon" />
 </p>
 
-# 💫 About Me:
-Hi, I'm Monalisa! 👋 I’m a data enthusiast 📊 with a strong passion for analytics 🧠 and problem-solving 🛠️. Currently, I’m diving into SQL 💻, Python 🐍, and Power BI 📈, aiming to build a solid foundation in data analytics and visualization. I enjoy exploring how data can drive meaningful insights 🔍 and support decision-making in various industries 🌍.<br><br>With a curious mindset 🤔 and a commitment to continuous learning 📚, I am eager to develop the technical 💻 and analytical skills 📊 needed to tackle real-world challenges 🌟. I believe that every dataset tells a story 📖, and I’m excited to uncover those stories through thoughtful analysis 🔍 and visualisation.<br><br>Whether it’s understanding trends 📈, optimising processes ⚙️, or finding innovative solutions 💡, I’m on a journey to become a skilled data professional 🌟. Feel free to connect 🤝 with me as I continue to grow 🌱 and explore the fascinating world of data 🌍!
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sahamonalisa/) 
-
-# 💻 Tech Stack:
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DataByMonalisa&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DataByMonalisa&theme=dark&hide_border=false)<br/>
@@ -48,8 +39,6 @@ Hi, I'm Monalisa! 👋 I’m a data enthusiast 📊 with a strong passion for an
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DataByMonalisa&icon=0&color=2)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 # Certificate 
