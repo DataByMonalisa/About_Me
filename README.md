@@ -1,5 +1,5 @@
 # About Me 🙂
-<i> Hi, I'm Monalisa! 👋 I’m a data enthusiast 📊 with a strong passion for analytics 🧠 and problem-solving 🛠️. Currently, I’m diving into SQL 💻, Python 🐍, and Power BI 📈, aiming to build a solid foundation in data analytics and visualization. I enjoy exploring how data can drive meaningful insights 🔍 and support decision-making in various industries 🌍. </i>
+<i> Hi, I'm Monalisa! 👋 I’m a data enthusiast 📊 with a strong passion for analytics 🧠 and problem-solving 🛠️. Currently, I’m diving into SQL 💻, and Power BI 📈, aiming to build a solid foundation in data analytics and visualization. I enjoy exploring how data can drive meaningful insights 🔍 and support decision-making in various industries 🌍. </i>
 
 <i> With a curious mindset 🤔 and a commitment to continuous learning 📚, I am eager to develop the technical 💻 and analytical skills 📊 needed to tackle real-world challenges 🌟. I believe that every dataset tells a story 📖, and I’m excited to uncover those stories through thoughtful analysis 🔍 and visualization 🎨. </i>
 
